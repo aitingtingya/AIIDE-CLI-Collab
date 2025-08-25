@@ -1,0 +1,10 @@
+# requirements.txt
+# 本项目主要使用 Python 标准库
+# 主要外部依赖是 'colorama'，用于跨平台彩色输出
+
+# 运行时依赖
+colorama
+
+# 构建和安装依赖
+setuptools
+wheel
